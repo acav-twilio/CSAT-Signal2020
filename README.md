@@ -169,7 +169,7 @@ $ npm start
 ```
 
 
-Now if you navigate to [http://localhost:3000/](http://localhost:3000/), your Twilio Serverless project should be live!
+Now if you navigate to [http://localhost:3000/](http://localhost:3000/index.hmtl), your Twilio Serverless project should be live!
 
 ![Screen Shot 2020-09-22 at 6 59 51 PM](https://user-images.githubusercontent.com/34189788/94625884-c4411a80-02b1-11eb-9f68-beda12520f2c.png)
 
